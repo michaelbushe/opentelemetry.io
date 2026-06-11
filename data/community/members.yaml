@@ -1100,6 +1100,7 @@ maintainers:
   - name: marcalff
     teams:
       - configuration-approvers
+      - configuration-maintainers
       - cpp-approvers
       - cpp-contrib-approvers
       - cpp-contrib-maintainers
@@ -1782,6 +1783,12 @@ approvers:
       - swift-triagers
     html_url: https://github.com/alolita
     avatar_url: https://avatars.githubusercontent.com/u/1942529?v=4
+  - name: amazingakai
+    teams:
+      - go-compile-instrumentation-approvers
+      - go-compile-instrumentation-triagers
+    html_url: https://github.com/amazingakai
+    avatar_url: https://avatars.githubusercontent.com/u/93782497?v=4
   - name: ArthurSens
     teams:
       - collector-contrib-approvers
@@ -2563,9 +2570,6 @@ members:
   - name: alxbl
     html_url: https://github.com/alxbl
     avatar_url: https://avatars.githubusercontent.com/u/860411?v=4
-  - name: amazingakai
-    html_url: https://github.com/amazingakai
-    avatar_url: https://avatars.githubusercontent.com/u/93782497?v=4
   - name: AnaMMedina21
     html_url: https://github.com/AnaMMedina21
     avatar_url: https://avatars.githubusercontent.com/u/3894791?v=4
